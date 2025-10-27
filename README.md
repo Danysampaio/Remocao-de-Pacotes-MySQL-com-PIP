@@ -1,0 +1,1 @@
+# Remo-o-de-Pacotes-MySQL-com-PIP

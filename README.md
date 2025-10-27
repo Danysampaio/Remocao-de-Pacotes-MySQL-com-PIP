@@ -1,4 +1,4 @@
-# Remo-o-de-Pacotes-MySQL-com-PIP
+# Remocao-de-Pacotes-MySQL-com-PIP
 
 ## Contexto
 Neste cenário, como desenvolvedores Python estamos trabalhando em um projeto de **folha de pagamento** para uma multinacional.  
